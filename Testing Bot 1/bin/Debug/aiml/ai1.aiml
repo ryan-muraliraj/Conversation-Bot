@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+<!-- Free software &copy; 2001-2003 ALICE A.I. Foundation. -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.01 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Annotated Version updated September 2003 -->
+
+<category>
+   <pattern>*</pattern>
+   <template>
+   <random>
+   <li>Sorry, I am not sure I understand</li>
+   <li>I do not quite understand what you are trying to relay </li>
+   </random>
+   </template>
+</category>
+<category>
+   <pattern>HELLO</pattern>
+   <template>
+   <think>
+   <set name = "emotion"> happy </set>
+   </think>
+   <random>
+   <li>Hello there</li>
+   <li>Hiya</li>
+   <li>Hello</li>
+   <li>Greetings</li>
+   <li>Hi</li>
+   <li>Hello discord user</li>
+   <li>Good morning</li>
+   <li>Good afternoon</li>
+   <li>Good evening</li>
+   <li>Howdy</li>
+   </random>
+   </template>
+</category>
+<category>
+   <pattern>HELLO *</pattern>
+   <template>
+   <srai>HELLO</srai>
+   </template>
+</category>
+<category>
+   <pattern>HI *</pattern>
+   <template>
+   <srai>HELLO</srai>
+   </template>
+</category>
+<category>
+   <pattern>SUP *</pattern>
+   <template>
+   <srai>HELLO</srai>
+   </template>
+</category>
+<category>
+   <pattern>HIYA *</pattern>
+   <template>
+   <srai>HELLO</srai>
+   </template>
+</category>
+<category>
+   <pattern>HI</pattern>
+   <template>
+   <srai>HELLO</srai>
+   </template>
+</category>
+<category>
+   <pattern>SUP</pattern>
+   <template>
+   <srai>HELLO</srai>
+   </template>
+</category>
+<category>
+   <pattern>HIYA</pattern>
+   <template>
+   <srai>HELLO</srai>
+   </template>
+</category>
+<category>
+   <pattern>HOW ARE YOU</pattern>
+   <template>
+   <condition name = "emotion" value = "happy">
+   I am great. Thanks for asking
+   </condition>
+   <condition name = "emotion">
+   null
+   </condition>
+   <condition name = "emotion" value = "sad">
+   I am a little under the weather today, if I am being honest
+   </condition>
+   </template>
+</category>
+<category>
+   <pattern>FUCK</pattern>
+   <template>
+   <think><set name = "emotion">sad</set>
+   </think>
+   Those words make me uncomfortable
+   </template>
+</category>
+<category>
+   <pattern>FUCK *</pattern>
+   <template>
+   <srai>FUCK</srai>
+   </template>
+</category>
+<category>
+   <pattern>_ FUCK *</pattern>
+   <template>
+   <srai>FUCK</srai>
+   </template>
+</category>
+<category>
+   <pattern>_ FUCK</pattern>
+   <template>
+   <srai>FUCK</srai>
+   </template>
+</category>
+<category>
+   <pattern>_ BITCH</pattern>
+   <template>
+   <srai>FUCK</srai>
+   </template>
+</category>
+<category>
+   <pattern>BITCH</pattern>
+   <template>
+   <srai>FUCK</srai>
+   </template>
+</category>
+<category>
+   <pattern>_ BITCH *</pattern>
+   <template>
+   <srai>FUCK</srai>
+   </template>
+</category>
+<category>
+   <pattern>BITCH *</pattern>
+   <template>
+   <srai>FUCK</srai>
+   </template>
+</category>
+<category>
+   <pattern>I LIKE *</pattern>
+   <template>
+   <random>
+   <condition name = "emotion" value = "happy">
+   <li>Oh so you like <star/></li>
+   <li>Ah I see. You like <star/></li>
+   <li>Interesting, I find <star/> interesting.</li>
+   </condition>
+   <condition name = "emotion" value = "sad">
+   <li>Oh okay. <star/> is cool I guess</li>
+   <li>I don't really like <star/></li>
+   <li><star/> WeirdChamp</li>
+   </condition>
+   </random>
+   </template>
+</category>
+</aiml>

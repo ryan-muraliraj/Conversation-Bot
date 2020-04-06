@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <item name="aimldirectory" value="aiml"/>
+  <item name="configdirectory" value="config"/>
+  <item name="logdirectory" value="logs"/>
+  <item name="maxlogbuffersize" value="64"/>
+  <item name="notacceptinguserinputmessage" value="This bot is currently set to not accept user input."/>
+  <item name="stripperregex" value="[^0-9a-zA-Z]"/>
+  <item name="version" value="1.0"/>
+  <item name="name" value="Bot"/>
+  <item name="botmaster" value="Ryan Muraliraj"/>
+  <item name="master" value="Ryan Muraliraj"/>
+  <item name="author" value="Ryan Muraliraj"/>
+  
+</root>

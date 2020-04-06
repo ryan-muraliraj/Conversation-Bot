@@ -1,0 +1,40 @@
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Testing Bot 1.exe.config
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Testing Bot 1.exe
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Testing Bot 1.pdb
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.Core.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\System.Interactive.Async.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\System.IO.Compression.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\System.Net.Http.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.Core.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\System.Interactive.Async.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\obj\Debug\Testing Bot 1.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\obj\Debug\Testing Bot 1.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\obj\Debug\Testing Bot 1.csproj.CopyComplete
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\obj\Debug\Testing Bot 1.exe
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\obj\Debug\Testing Bot 1.pdb
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Google.Apis.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Google.Apis.pdb
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Google.Apis.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ryan\source\repos\Testing Bot 1\Testing Bot 1\bin\Debug\AIMLBot.dll
